@@ -11,7 +11,15 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.10.0",
+    "i": "^0.3.6",
+    "npm": "^6.14.5",
+    "react-particles-js": "^3.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-typed": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
